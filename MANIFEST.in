@@ -1,0 +1,3 @@
+graft wagondb
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  wagondb/jupy *
